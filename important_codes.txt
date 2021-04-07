@@ -1,0 +1,4 @@
+jupyter notebook themes:
+
+pip install jupyterthemes
+jt -t monokai -f fira -fs 10 -nf ptsans -nfs 11 -tfs 10 -ofs 10 -N -kl -cursw 2 -cursc r -cellw 85% -T
